@@ -12,6 +12,7 @@ Flutter, Dart
 - increase or decrease number of products 
 - total price 
 
+![Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05 19 10](https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/4720d14c-0546-4f03-96b4-af4cd5723404)
 
 
 ## Demo
@@ -20,7 +21,7 @@ The screenshots of the mobile applications is given below.
 ## Creating new account !
 
 <div align = 'center'>
-<img width="200"  src="Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05.19.10.png">
+<img width="200"  src="https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/4720d14c-0546-4f03-96b4-af4cd5723404">
 <img width="200"  src="Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05.19.18.png">
 <img width="200"  src="Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05.19.27.png">
 </div>
