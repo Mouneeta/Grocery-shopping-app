@@ -17,7 +17,7 @@ Flutter, Dart
 ## Demo
 The screenshots of the mobile applications is given below.
 
-## Creating new account !
+## Viewing the items and adding to the cart!
 
 <div align = 'center'>
 <img width="200"  src="https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/4720d14c-0546-4f03-96b4-af4cd5723404">
@@ -30,7 +30,7 @@ The screenshots of the mobile applications is given below.
 
 
 
-## Tweeting text, image and link
+## increasing, decreasing and deleting items from the cart
 <div align='center'>
 <img width="200"  src="https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/392fbc51-d9ae-4aaa-9fb8-d472fac482d8">
 <img width="200"  src="https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/6a819330-8491-4e70-ae1a-30c3be83365c">
