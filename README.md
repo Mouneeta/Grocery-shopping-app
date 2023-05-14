@@ -12,7 +12,6 @@ Flutter, Dart
 - increase or decrease number of products 
 - total price 
 
-![Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05 19 10](https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/4720d14c-0546-4f03-96b4-af4cd5723404)
 
 
 ## Demo
@@ -22,17 +21,20 @@ The screenshots of the mobile applications is given below.
 
 <div align = 'center'>
 <img width="200"  src="https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/4720d14c-0546-4f03-96b4-af4cd5723404">
-<img width="200"  src="Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05.19.18.png">
-<img width="200"  src="Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05.19.27.png">
+<img width="200"  src="![Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05 19 18](https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/513c2ba2-734d-4766-bb69-ecbfdd3be725)">
+<img width="200"  src="![Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05 19 27](https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/6a819330-8491-4e70-ae1a-30c3be83365c)">
 </div>
 
-<br>
+
+<br>![Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05 19 22](https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/24418044-b3fe-4deb-a195-788048d6dac4)
+
+
 
 ## Tweeting text, image and link
 <div align='center'>
-<img width="200"  src="Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05.19.53.png">
-<img width="200"  src="Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05.20.06.png">
-<img width="200"  src="Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05.20.12.png">
+<img width="200"  src="![Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05 19 53](https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/392fbc51-d9ae-4aaa-9fb8-d472fac482d8)">
+<img width="200"  src="![Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05 20 06](https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/38e4d590-5dbf-48d6-aca6-c5c3a18639f9)">
+<img width="200"  src="![Simulator Screen Shot - iPhone 12 - 2023-05-15 at 05 20 12](https://github.com/Mouneeta/Grocery-shopping-app/assets/71824279/d077fa51-91c3-4c60-9fbf-e660d323051b)">
 </div>
 
 
